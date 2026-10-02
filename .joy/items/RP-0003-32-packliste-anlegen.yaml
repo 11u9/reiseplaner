@@ -1,0 +1,16 @@
+id: RP-0003-32
+title: Packliste anlegen
+type: story
+status: new
+priority: medium
+parent: RP-0001-13
+milestone: RP-MS-01
+capabilities:
+- plan
+- implement
+- review
+created_by: philipp@joyint.com
+created: 2026-10-02T18:29:56.050699564Z
+updated: 2026-10-02T18:35:34.637615513Z
+updated_by: philipp@joyint.com
+description: Eine Liste der Dinge, die mit auf die Reise sollen.

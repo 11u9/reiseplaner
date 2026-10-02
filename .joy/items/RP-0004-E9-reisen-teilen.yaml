@@ -1,0 +1,16 @@
+id: RP-0004-E9
+title: Reisen teilen
+type: story
+status: new
+priority: medium
+parent: RP-0001-13
+deps:
+- RP-0002
+capabilities:
+- plan
+- implement
+- review
+created_by: philipp@joyint.com
+created: 2026-10-02T18:30:17.259746072Z
+updated: 2026-10-02T18:37:50.775437079Z
+updated_by: philipp@joyint.com

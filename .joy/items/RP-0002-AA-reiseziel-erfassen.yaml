@@ -1,0 +1,23 @@
+id: RP-0002-AA
+title: Reiseziel erfassen
+type: story
+status: closed
+priority: high
+parent: RP-0001-13
+assignees:
+- member: philipp@joyint.com
+milestone: RP-MS-01-EA
+capabilities:
+- plan
+- implement
+- review
+effort: 5
+created_by: philipp@joyint.com
+created: 2026-10-02T18:29:22.604745241Z
+updated: 2026-10-02T18:41:20.297881261Z
+updated_by: philipp@joyint.com
+description: Als Reisende will ich ein Ziel mit Zeitraum eintragen.
+comments:
+- author: philipp@joyint.com
+  date: 2026-10-02T18:33:55.304459139Z
+  text: Bitte auch mehrere Ziele pro Reise erlauben.
