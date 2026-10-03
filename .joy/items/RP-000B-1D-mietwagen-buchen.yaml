@@ -9,6 +9,10 @@ capabilities:
 effort: 4
 created_by: philipp@joyint.com
 created: 2026-10-03T06:44:17.506330645Z
-updated: 2026-10-03T06:45:14.800135225Z
+updated: 2026-10-03T06:45:32.111711318Z
 updated_by: philipp@joyint.com
 description: Mietwagen sollen alle in rot sein.
+comments:
+- author: philipp@joyint.com
+  date: 2026-10-03T06:45:32.111709903Z
+  text: hier ist ein wichtiger Kommentar.
