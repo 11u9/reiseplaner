@@ -27,7 +27,7 @@ members:
           review: {}
           document: {}
           jobs: {}
-      signed_at: 2026-10-03T08:02:25.081300623Z
+      signed_at: 2026-10-03T08:03:10.630436514Z
       signature: ce7803effcc9227b0f3c269be63cce6b0d9f41a22a448d4dc5a9c7f2a37e960931db9a9008315b06bbda1a475975e6b770af6c0384ea825cdaaad9477570f909
   philipp@joyint.com:
     capabilities: all
