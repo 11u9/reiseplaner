@@ -6,8 +6,8 @@ priority: high
 parent: RP-0001-13
 capabilities:
 - implement
-effort: 3
+effort: 4
 created_by: philipp@joyint.com
 created: 2026-10-03T06:44:17.506330645Z
-updated: 2026-10-03T06:44:17.506330645Z
+updated: 2026-10-03T06:44:55.946933675Z
 updated_by: philipp@joyint.com
