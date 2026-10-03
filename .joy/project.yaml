@@ -2,35 +2,6 @@ name: Reiseplaner
 acronym: RP
 language: en
 members:
-  ai:vibe@joy:
-    capabilities:
-      conceive: {}
-      plan: {}
-      design: {}
-      implement: {}
-      test: {}
-      review: {}
-      document: {}
-      create: {}
-      assign: {}
-    adapter: vibe
-    verify_key: 92d857e24b46d0492de4409c951b9158ddab05dd157095f8c536dfb6ba2dece0
-    attestation:
-      attester: philipp@joyint.com
-      signed_fields:
-        email: ai:vibe@joy
-        capabilities:
-          conceive: {}
-          plan: {}
-          design: {}
-          implement: {}
-          test: {}
-          review: {}
-          document: {}
-          create: {}
-          assign: {}
-      signed_at: 2026-10-02T18:54:41.696054068Z
-      signature: 1e0021b7713db516b84ccdc5a3caa8041a3795d856565f0026141d27c93a5acd90ddf37d33a3b2dc1713646fa9c4d4e31fe61779da29069418365b2bd9572400
   philipp@joyint.com:
     capabilities: all
     verify_key: 51dbca6b131fff6f06f3c5523dcb31d55eebef7f585ec56db53f56ec568699c9
