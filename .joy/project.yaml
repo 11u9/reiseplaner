@@ -2,6 +2,33 @@ name: Reiseplaner
 acronym: RP
 language: en
 members:
+  ai:vibe@joy:
+    capabilities:
+      conceive: {}
+      plan: {}
+      design: {}
+      implement: {}
+      test: {}
+      review: {}
+      document: {}
+      jobs: {}
+    adapter: vibe
+    verify_key: 11779a611349717c0f6f2a69c5838d080fc2b9096a873f77c1733fbe288bbad4
+    attestation:
+      attester: philipp@joyint.com
+      signed_fields:
+        email: ai:vibe@joy
+        capabilities:
+          conceive: {}
+          plan: {}
+          design: {}
+          implement: {}
+          test: {}
+          review: {}
+          document: {}
+          jobs: {}
+      signed_at: 2026-10-03T08:02:25.081300623Z
+      signature: ce7803effcc9227b0f3c269be63cce6b0d9f41a22a448d4dc5a9c7f2a37e960931db9a9008315b06bbda1a475975e6b770af6c0384ea825cdaaad9477570f909
   philipp@joyint.com:
     capabilities: all
     verify_key: 51dbca6b131fff6f06f3c5523dcb31d55eebef7f585ec56db53f56ec568699c9
@@ -10,7 +37,7 @@ members:
     seed_wrap_recovery: 409afb3ae25bc6e8be4bb343de630c06167c7accc1ce908c4efa36b59d1491c88f2a30491be204dc32309339ac771118f3e79db4625457686fc2d24e
     ai_delegations:
       ai:vibe@joy:
-        delegation_verifier: 92d857e24b46d0492de4409c951b9158ddab05dd157095f8c536dfb6ba2dece0
-        delegation_salt: 0c67392f7f98128a469a0365a603dff513361ba707cef09ef08d7255c55142b2
-        created: 2026-10-03T06:01:03.479957182Z
+        delegation_verifier: 11779a611349717c0f6f2a69c5838d080fc2b9096a873f77c1733fbe288bbad4
+        delegation_salt: 0a42dddaa5c742173d60a462b532a313500e2a99edc70026c58562c40cb1560c
+        created: 2026-10-03T08:02:25.148498130Z
 created: 2026-10-02T18:27:20.788533027Z
