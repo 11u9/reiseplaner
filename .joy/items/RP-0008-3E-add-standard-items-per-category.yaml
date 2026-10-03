@@ -1,0 +1,14 @@
+id: RP-0008-3E
+title: Add standard items per category
+type: task
+status: new
+priority: medium
+parent: RP-0003-32
+capabilities:
+- implement
+effort: 2
+created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created: 2026-10-03T06:11:08.711171937Z
+updated: 2026-10-03T06:11:08.711171937Z
+updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+description: Populate each category with typical travel items

@@ -1,0 +1,16 @@
+id: RP-0006-60
+title: Plan budget
+type: story
+status: new
+priority: medium
+parent: RP-0001-13
+capabilities:
+- plan
+- implement
+- review
+effort: 3
+created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created: 2026-10-03T06:04:34.893544161Z
+updated: 2026-10-03T06:04:34.893544161Z
+updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+description: Calculate and allocate budget for travel expenses

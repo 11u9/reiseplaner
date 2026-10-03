@@ -1,0 +1,17 @@
+id: RP-000A-D7
+title: Write README
+type: story
+status: closed
+priority: medium
+assignees:
+- member: ai:vibe@joy
+capabilities:
+- plan
+- implement
+- review
+effort: 2
+created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created: 2026-10-03T06:13:17.689435408Z
+updated: 2026-10-03T06:13:45.457428702Z
+updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+description: Create a concise README.md for the Reiseplaner project

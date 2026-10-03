@@ -1,0 +1,14 @@
+id: RP-0009-19
+title: Validate and export packlist
+type: task
+status: new
+priority: medium
+parent: RP-0003-32
+capabilities:
+- implement
+effort: 2
+created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created: 2026-10-03T06:11:08.738300942Z
+updated: 2026-10-03T06:11:08.738300942Z
+updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+description: Review completeness and export the final packlist

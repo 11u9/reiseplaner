@@ -1,0 +1,16 @@
+id: RP-0005-86
+title: Find accommodation
+type: story
+status: new
+priority: medium
+parent: RP-0001-13
+capabilities:
+- plan
+- implement
+- review
+effort: 3
+created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created: 2026-10-03T06:04:11.473626357Z
+updated: 2026-10-03T06:04:11.473626357Z
+updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+description: Search and book suitable accommodation for the trip

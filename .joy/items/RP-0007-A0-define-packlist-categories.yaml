@@ -1,0 +1,14 @@
+id: RP-0007-A0
+title: Define packlist categories
+type: task
+status: new
+priority: medium
+parent: RP-0003-32
+capabilities:
+- implement
+effort: 2
+created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created: 2026-10-03T06:11:08.680616732Z
+updated: 2026-10-03T06:11:08.680616732Z
+updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+description: Create categories like clothing, electronics, hygiene for organizing items
