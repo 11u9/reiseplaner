@@ -1,0 +1,13 @@
+id: RP-000B-1D
+title: Mietwagen buchen
+type: task
+status: new
+priority: high
+parent: RP-0001-13
+capabilities:
+- implement
+effort: 3
+created_by: philipp@joyint.com
+created: 2026-10-03T06:44:17.506330645Z
+updated: 2026-10-03T06:44:17.506330645Z
+updated_by: philipp@joyint.com
