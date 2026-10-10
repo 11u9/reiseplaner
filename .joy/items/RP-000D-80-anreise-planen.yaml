@@ -4,11 +4,12 @@ type: task
 status: new
 priority: high
 parent: RP-0001-13
+milestone: RP-MS-03-70
 capabilities:
 - implement
 effort: 3
 created_by: philipp@joyint.com
 created: 2026-10-10T07:14:45.967461532Z
-updated: 2026-10-10T07:14:45.967461532Z
+updated: 2026-10-10T07:18:45.110300317Z
 updated_by: philipp@joyint.com
 description: Die Anreise planen.
