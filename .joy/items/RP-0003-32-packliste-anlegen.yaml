@@ -13,9 +13,13 @@ capabilities:
 - review
 created_by: philipp@joyint.com
 created: 2026-10-02T18:29:56.050699564Z
-updated: 2026-10-10T07:15:39.826174531Z
+updated: 2026-10-10T07:16:23.059246311Z
 updated_by: philipp@joyint.com
 description: |-
   Eine Liste der Dinge, die mit auf die Reise sollen.
 
   hier muss man noch mehr beschreiben anscheinend.
+comments:
+- author: philipp@joyint.com
+  date: 2026-10-10T07:16:23.059245663Z
+  text: ein Kommentar
