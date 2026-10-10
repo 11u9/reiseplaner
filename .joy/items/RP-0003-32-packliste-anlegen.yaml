@@ -1,16 +1,18 @@
 id: RP-0003-32
 title: Packliste anlegen
 type: story
-status: new
+status: in-progress
 priority: medium
 parent: RP-0001-13
-milestone: RP-MS-01
+assignees:
+- member: philipp@joyint.com
+milestone: RP-MS-01-EA
 capabilities:
 - plan
 - implement
 - review
 created_by: philipp@joyint.com
 created: 2026-10-02T18:29:56.050699564Z
-updated: 2026-10-02T18:35:34.637615513Z
+updated: 2026-10-10T07:15:15.194560178Z
 updated_by: philipp@joyint.com
 description: Eine Liste der Dinge, die mit auf die Reise sollen.
