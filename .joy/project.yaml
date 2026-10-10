@@ -4,14 +4,30 @@ language: en
 members:
   ai:vibe@joy:
     capabilities:
-      conceive: {}
-      plan: {}
-      design: {}
-      implement: {}
-      test: {}
-      review: {}
-      document: {}
-      jobs: {}
+      conceive:
+        max-interaction-level: confirmed
+      plan:
+        max-interaction-level: confirmed
+      design:
+        max-interaction-level: confirmed
+      implement:
+        max-interaction-level: confirmed
+      test:
+        max-interaction-level: confirmed
+      review:
+        max-interaction-level: confirmed
+      document:
+        max-interaction-level: confirmed
+      jobs:
+        max-interaction-level: confirmed
+      create:
+        max-interaction-level: confirmed
+      assign:
+        max-interaction-level: confirmed
+      manage:
+        max-interaction-level: confirmed
+      delete:
+        max-interaction-level: confirmed
     adapter: vibe
     verify_key: 11779a611349717c0f6f2a69c5838d080fc2b9096a873f77c1733fbe288bbad4
     attestation:
@@ -19,16 +35,32 @@ members:
       signed_fields:
         email: ai:vibe@joy
         capabilities:
-          conceive: {}
-          plan: {}
-          design: {}
-          implement: {}
-          test: {}
-          review: {}
-          document: {}
-          jobs: {}
-      signed_at: 2026-10-03T08:03:10.630436514Z
-      signature: ce7803effcc9227b0f3c269be63cce6b0d9f41a22a448d4dc5a9c7f2a37e960931db9a9008315b06bbda1a475975e6b770af6c0384ea825cdaaad9477570f909
+          conceive:
+            max-interaction-level: confirmed
+          plan:
+            max-interaction-level: confirmed
+          design:
+            max-interaction-level: confirmed
+          implement:
+            max-interaction-level: confirmed
+          test:
+            max-interaction-level: confirmed
+          review:
+            max-interaction-level: confirmed
+          document:
+            max-interaction-level: confirmed
+          jobs:
+            max-interaction-level: confirmed
+          create:
+            max-interaction-level: confirmed
+          assign:
+            max-interaction-level: confirmed
+          manage:
+            max-interaction-level: confirmed
+          delete:
+            max-interaction-level: confirmed
+      signed_at: 2026-10-10T07:37:45.634654208Z
+      signature: c029b1863e0ffcf3c2481977080591bf4981ff0c8da0c7d89aadfa5ee4f4d994180bd221b87939092fa27d9fbeeb2adaa8efe1f17e065038931772687c2ab10a
   philipp@joyint.com:
     capabilities: all
     verify_key: 51dbca6b131fff6f06f3c5523dcb31d55eebef7f585ec56db53f56ec568699c9
