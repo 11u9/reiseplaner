@@ -4,30 +4,18 @@ language: en
 members:
   ai:vibe@joy:
     capabilities:
-      conceive:
-        max-interaction-level: confirmed
-      plan:
-        max-interaction-level: confirmed
-      design:
-        max-interaction-level: confirmed
-      implement:
-        max-interaction-level: confirmed
-      test:
-        max-interaction-level: confirmed
-      review:
-        max-interaction-level: confirmed
-      document:
-        max-interaction-level: confirmed
-      jobs:
-        max-interaction-level: confirmed
-      create:
-        max-interaction-level: confirmed
-      assign:
-        max-interaction-level: confirmed
-      manage:
-        max-interaction-level: confirmed
-      delete:
-        max-interaction-level: confirmed
+      conceive: {}
+      plan: {}
+      design: {}
+      implement: {}
+      test: {}
+      review: {}
+      document: {}
+      jobs: {}
+      create: {}
+      assign: {}
+      manage: {}
+      delete: {}
     adapter: vibe
     verify_key: 11779a611349717c0f6f2a69c5838d080fc2b9096a873f77c1733fbe288bbad4
     attestation:
@@ -35,32 +23,20 @@ members:
       signed_fields:
         email: ai:vibe@joy
         capabilities:
-          conceive:
-            max-interaction-level: confirmed
-          plan:
-            max-interaction-level: confirmed
-          design:
-            max-interaction-level: confirmed
-          implement:
-            max-interaction-level: confirmed
-          test:
-            max-interaction-level: confirmed
-          review:
-            max-interaction-level: confirmed
-          document:
-            max-interaction-level: confirmed
-          jobs:
-            max-interaction-level: confirmed
-          create:
-            max-interaction-level: confirmed
-          assign:
-            max-interaction-level: confirmed
-          manage:
-            max-interaction-level: confirmed
-          delete:
-            max-interaction-level: confirmed
-      signed_at: 2026-10-10T07:37:45.634654208Z
-      signature: c029b1863e0ffcf3c2481977080591bf4981ff0c8da0c7d89aadfa5ee4f4d994180bd221b87939092fa27d9fbeeb2adaa8efe1f17e065038931772687c2ab10a
+          conceive: {}
+          plan: {}
+          design: {}
+          implement: {}
+          test: {}
+          review: {}
+          document: {}
+          jobs: {}
+          create: {}
+          assign: {}
+          manage: {}
+          delete: {}
+      signed_at: 2026-10-10T07:38:08.981279684Z
+      signature: 74c9d1c917d281f4ed94fb18a0fd751c12794a93a9e678def4f0ccecf4b26b65d3fb334a51240b03943d03c6a0d2f4b4dfa85bac478a20c01252601c36f5c20d
   philipp@joyint.com:
     capabilities: all
     verify_key: 51dbca6b131fff6f06f3c5523dcb31d55eebef7f585ec56db53f56ec568699c9
