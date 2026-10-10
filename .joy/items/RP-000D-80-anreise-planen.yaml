@@ -1,0 +1,14 @@
+id: RP-000D-80
+title: Anreise planen
+type: task
+status: new
+priority: high
+parent: RP-0001-13
+capabilities:
+- implement
+effort: 3
+created_by: philipp@joyint.com
+created: 2026-10-10T07:14:45.967461532Z
+updated: 2026-10-10T07:14:45.967461532Z
+updated_by: philipp@joyint.com
+description: Die Anreise planen.
