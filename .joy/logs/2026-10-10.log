@@ -21,3 +21,8 @@
 2026-10-10T07:35:46.043Z RP-000F-7F guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
 2026-10-10T07:35:46.055Z RP-000F-53 guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
 2026-10-10T07:35:46.067Z RP-000F-AC guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
+2026-10-10T07:35:49.660Z RP-000F-C8 guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
+2026-10-10T07:35:51.646Z RP-000F-7F guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
+2026-10-10T07:35:55.721Z RP-000F-7F guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
+2026-10-10T07:35:55.731Z RP-000F-53 guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
+2026-10-10T07:35:55.743Z RP-000F-AC guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
