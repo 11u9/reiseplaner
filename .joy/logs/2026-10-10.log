@@ -5,3 +5,4 @@
 2026-10-10T07:18:20.429Z RP-MS-03-70 milestone.created [philipp@joyint.com]
 2026-10-10T07:18:45.112Z RP-000D-80 item.updated [philipp@joyint.com]
 2026-10-10T07:26:38.502Z RP-000E-70 item.created [philipp@joyint.com]
+2026-10-10T07:33:19.718Z RP-000D-80 guard.denied "ai:vibe@joy does not have 'create' capability" [ai:vibe@joy delegated-by:philipp@joyint.com]
