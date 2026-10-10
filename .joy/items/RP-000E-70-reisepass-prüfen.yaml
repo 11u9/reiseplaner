@@ -1,0 +1,12 @@
+id: RP-000E-70
+title: Reisepass prüfen
+type: task
+status: new
+priority: medium
+parent: RP-0003
+capabilities:
+- implement
+created_by: philipp@joyint.com
+created: 2026-10-10T07:26:38.501262709Z
+updated: 2026-10-10T07:26:38.501262709Z
+updated_by: philipp@joyint.com
