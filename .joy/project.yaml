@@ -1,51 +1,8 @@
+format: 2
 name: Reiseplaner
 acronym: RP
 language: en
-members:
-  ai:vibe@joy:
-    capabilities:
-      conceive: {}
-      plan: {}
-      design: {}
-      implement: {}
-      test: {}
-      review: {}
-      document: {}
-      jobs: {}
-      create: {}
-      assign: {}
-      manage: {}
-      delete: {}
-    adapter: vibe
-    verify_key: 11779a611349717c0f6f2a69c5838d080fc2b9096a873f77c1733fbe288bbad4
-    attestation:
-      attester: philipp@joyint.com
-      signed_fields:
-        email: ai:vibe@joy
-        capabilities:
-          conceive: {}
-          plan: {}
-          design: {}
-          implement: {}
-          test: {}
-          review: {}
-          document: {}
-          jobs: {}
-          create: {}
-          assign: {}
-          manage: {}
-          delete: {}
-      signed_at: 2026-10-10T07:38:08.981279684Z
-      signature: 74c9d1c917d281f4ed94fb18a0fd751c12794a93a9e678def4f0ccecf4b26b65d3fb334a51240b03943d03c6a0d2f4b4dfa85bac478a20c01252601c36f5c20d
-  philipp@joyint.com:
-    capabilities: all
-    verify_key: 51dbca6b131fff6f06f3c5523dcb31d55eebef7f585ec56db53f56ec568699c9
-    kdf_nonce: 41f103b535f118cf1921985a9106b2f9b0af011c3e2f8f824fc97863ece2368a
-    seed_wrap_passphrase: e4e572ea90b91da7667843d72e3449d9c3388bec30185094ac5801682fe3c5055cc59b0f674dd846e7015950b5d93a771e0d4521b241c711584b46bf
-    seed_wrap_recovery: 409afb3ae25bc6e8be4bb343de630c06167c7accc1ce908c4efa36b59d1491c88f2a30491be204dc32309339ac771118f3e79db4625457686fc2d24e
-    ai_delegations:
-      ai:vibe@joy:
-        delegation_verifier: 992a8c629e43d15e2cffabe9b7dbbcd5ccdcd4680f443b6e14b3f9dbce754033
-        delegation_salt: 63ba44b492b00fcad5d4167ebde262403978fe2ac675abcc7069931b6a0c7835
-        created: 2026-10-10T07:37:17.182868559Z
 created: 2026-10-02T18:27:20.788533027Z
+members:
+- m-ru7adtgull
+- m-xqtebeud6c

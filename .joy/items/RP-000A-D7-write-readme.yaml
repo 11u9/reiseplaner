@@ -4,14 +4,14 @@ type: story
 status: closed
 priority: medium
 assignees:
-- member: ai:vibe@joy
+- member: vibe
 milestone: RP-MS-02-E0
 capabilities:
 - plan
 - implement
 - review
 effort: 2
-created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created_by: vibe delegated-by:philipp@joyint.com
 created: 2026-10-03T06:13:17.689435408Z
 updated: 2026-10-03T06:47:04.955047100Z
 updated_by: philipp@joyint.com

@@ -1,0 +1,22 @@
+name: vibe
+adapter: vibe
+capabilities:
+- conceive
+- plan
+- design
+- implement
+- test
+- review
+- document
+- jobs
+- create
+- assign
+- manage
+- delete
+level: autonomous
+granted:
+  by: philipp@joyint.com
+  at: 2026-10-11T06:18:28.219536190Z
+  signature: 3b54c4029bcc397c803f774e5166acf48beac1fb3635c97d6d87466abab3d95093203d4e9ce6107323a44e6775fc37f52b58e2a6b9616d2c475a0c5284d0790b
+verify_key: 11779a611349717c0f6f2a69c5838d080fc2b9096a873f77c1733fbe288bbad4
+updated: 2026-10-11T06:18:28.220208053Z

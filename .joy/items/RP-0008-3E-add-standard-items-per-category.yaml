@@ -7,8 +7,8 @@ parent: RP-0003-32
 capabilities:
 - implement
 effort: 2
-created_by: ai:vibe@joy delegated-by:philipp@joyint.com
+created_by: vibe delegated-by:philipp@joyint.com
 created: 2026-10-03T06:11:08.711171937Z
 updated: 2026-10-03T06:11:08.711171937Z
-updated_by: ai:vibe@joy delegated-by:philipp@joyint.com
+updated_by: vibe delegated-by:philipp@joyint.com
 description: Populate each category with typical travel items
