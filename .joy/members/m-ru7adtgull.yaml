@@ -17,12 +17,13 @@ ai_delegations:
       - implement
       - test
       - review
+      - document
       - jobs
       - create
       - assign
       - manage
       - delete
       level: autonomous
-      signed_at: 2026-10-11T06:19:28.624837334Z
-      signature: 663a0fe454be5266c2c6fcb6dc206dbfb032496b82f437fc5e2b5a9321c7882c158f1e3e39f02ea4176f14f59e3c799b37748a02974d0d0e9d44fc27b029ee0c
-updated: 2026-10-11T06:19:28.624933336Z
+      signed_at: 2026-10-11T06:19:31.766034350Z
+      signature: 49a2ecffef357f1e5a8446255ad9ab953a69ba4b4318e68ac563427b3d30b2d88dcdc05f502bdc89fb8fc869f3fe9153f7f78e5835bcba9202362ced4845b804
+updated: 2026-10-11T06:19:31.766266811Z
