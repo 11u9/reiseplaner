@@ -23,7 +23,7 @@ ai_delegations:
       - assign
       - manage
       - delete
-      level: confirmed
-      signed_at: 2026-10-11T06:19:22.124057433Z
-      signature: 3ad4f65e851006aa25bef6ad89fd2fbe9eb835e236722246f1317a1b8e3d734151d68ee52905837cbd45f1d5784dc1a378e32c63db925b7c568a258bbc606e04
-updated: 2026-10-11T06:19:22.124285199Z
+      level: autonomous
+      signed_at: 2026-10-11T06:19:24.899859266Z
+      signature: 49a2ecffef357f1e5a8446255ad9ab953a69ba4b4318e68ac563427b3d30b2d88dcdc05f502bdc89fb8fc869f3fe9153f7f78e5835bcba9202362ced4845b804
+updated: 2026-10-11T06:19:24.900094017Z
