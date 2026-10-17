@@ -9,4 +9,5 @@ ai_delegations:
     delegation_verifier: 77f80c1be926ee22c6d910facb423cec51c395c69721193a44690c0a78290f27
     delegation_salt: 5b8d5b6b25975ba04aa190f83d9be5a750da62c19948c13f60521fe5a9ce35aa
     created: 2026-10-17T06:20:34.058683906Z
-updated: 2026-10-17T06:20:34.058909047Z
+    model: mistral-medium-3.5
+updated: 2026-10-17T06:20:37.252715738Z
