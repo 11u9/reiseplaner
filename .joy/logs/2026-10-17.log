@@ -6,3 +6,4 @@
 2026-10-17T06:23:48.896Z RP-0014-44 item.created [vibe delegated-by:philipp@joyint.com]
 2026-10-17T06:26:23.469Z RP-JOB-0001-FF item.created [philipp@joyint.com]
 2026-10-17T06:27:53.015Z RP-JOB-0001-FF job.status_changed "new -> open" [philipp@joyint.com]
+2026-10-17T06:27:58.664Z RP-JOB-0001-FF job.status_changed "open -> in-progress" [vibe delegated-by:philipp@joyint.com]
