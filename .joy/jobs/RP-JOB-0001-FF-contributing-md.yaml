@@ -1,7 +1,7 @@
 id: RP-JOB-0001-FF
 title: Contributing md
 type: job
-status: new
+status: open
 priority: medium
 assignees:
 - member: vibe
@@ -11,7 +11,7 @@ interaction-level: autonomous
 effort: 3
 created_by: philipp@joyint.com
 created: 2026-10-17T06:26:23.443680954Z
-updated: 2026-10-17T06:26:23.443680954Z
+updated: 2026-10-17T06:27:52.992257279Z
 updated_by: philipp@joyint.com
 description: Füge dem Projekt eine Contributing Datei hinzu.
 job:
