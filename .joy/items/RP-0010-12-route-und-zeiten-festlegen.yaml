@@ -1,0 +1,13 @@
+id: RP-0010-12
+title: Route und Zeiten festlegen
+type: task
+status: new
+priority: medium
+parent: RP-000D-80
+capabilities:
+- implement
+effort: 3
+created_by: vibe delegated-by:philipp@joyint.com
+created: 2026-10-17T05:43:44.345961619Z
+updated: 2026-10-17T05:43:44.345961619Z
+updated_by: vibe delegated-by:philipp@joyint.com

@@ -1,0 +1,13 @@
+id: RP-0011-F8
+title: Tickets buchen
+type: task
+status: new
+priority: medium
+parent: RP-000D-80
+capabilities:
+- implement
+effort: 4
+created_by: vibe delegated-by:philipp@joyint.com
+created: 2026-10-17T05:43:45.282317782Z
+updated: 2026-10-17T05:43:45.282317782Z
+updated_by: vibe delegated-by:philipp@joyint.com

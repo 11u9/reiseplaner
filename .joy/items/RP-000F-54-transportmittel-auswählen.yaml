@@ -1,0 +1,13 @@
+id: RP-000F-54
+title: Transportmittel auswählen
+type: task
+status: new
+priority: medium
+parent: RP-000D-80
+capabilities:
+- implement
+effort: 2
+created_by: vibe delegated-by:philipp@joyint.com
+created: 2026-10-17T05:43:43.336608752Z
+updated: 2026-10-17T05:43:43.336608752Z
+updated_by: vibe delegated-by:philipp@joyint.com
