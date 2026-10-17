@@ -1,0 +1,12 @@
+id: RP-0012-75
+title: Anforderungen klären (Fahrzeugtyp, Dauer, Abholort)
+type: task
+status: new
+priority: medium
+parent: RP-000B-1D
+capabilities:
+- implement
+created_by: vibe delegated-by:philipp@joyint.com
+created: 2026-10-17T06:23:48.797364533Z
+updated: 2026-10-17T06:23:48.797364533Z
+updated_by: vibe delegated-by:philipp@joyint.com
