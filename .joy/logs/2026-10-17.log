@@ -9,3 +9,4 @@
 2026-10-17T06:27:58.664Z RP-JOB-0001-FF job.status_changed "open -> in-progress" [vibe delegated-by:philipp@joyint.com]
 2026-10-17T06:28:56.534Z RP-JOB-0001-FF comment.added [vibe delegated-by:philipp@joyint.com]
 2026-10-17T06:29:18.024Z RP-JOB-0001-FF comment.added [vibe delegated-by:philipp@joyint.com]
+2026-10-17T06:29:26.360Z RP-JOB-0001-FF job.status_changed "in-progress -> review" [vibe delegated-by:philipp@joyint.com]
