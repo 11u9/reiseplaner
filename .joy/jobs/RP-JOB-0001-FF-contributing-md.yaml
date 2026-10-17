@@ -1,0 +1,22 @@
+id: RP-JOB-0001-FF
+title: Contributing md
+type: job
+status: new
+priority: medium
+assignees:
+- member: vibe
+capabilities:
+- jobs
+interaction-level: autonomous
+effort: 3
+created_by: philipp@joyint.com
+created: 2026-10-17T06:26:23.443680954Z
+updated: 2026-10-17T06:26:23.443680954Z
+updated_by: philipp@joyint.com
+description: Füge dem Projekt eine Contributing Datei hinzu.
+job:
+  scope:
+  - RP-0001-13
+  budget:
+    currency: EUR
+  result_branch: joy/job/RP-JOB-0001-FF
